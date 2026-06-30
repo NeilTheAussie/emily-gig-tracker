@@ -1,0 +1,97 @@
+# Emily's UK Gig Tracker — artists to track
+# One artist per line. Lines starting with # are ignored.
+# Edit freely: add, remove, reorder. A push re-runs the tracker automatically.
+#
+# Names kept "search-friendly" so Ticketmaster matches them cleanly.
+
+# ============================================================
+#  EMILY'S CORE
+# ============================================================
+Empire of the Sun
+Ethel Cain
+Lily Allen
+Olivia Rodrigo
+Lorde
+
+
+# ████████████████████████████████████████████████████████████
+#  SUGGESTED — SIMILAR ARTISTS (added by Claude)
+#  Same lanes as your core. Prune anything you don't fancy.
+#  The tracker auto-skips any it can't match on Ticketmaster.
+# ████████████████████████████████████████████████████████████
+
+# ------------------------------------------------------------
+#  ALT-POP / POP SINGER-SONGWRITER  (Olivia / Lorde / Lily lane)
+# ------------------------------------------------------------
+Billie Eilish
+Gracie Abrams
+Tate McRae
+Sabrina Carpenter
+Chappell Roan
+Renee Rapp
+Conan Gray
+Holly Humberstone
+Maisie Peters
+Beabadoobee
+Clairo
+Phoebe Bridgers
+Girl in Red
+Sigrid
+Self Esteem
+Kate Nash
+
+# ------------------------------------------------------------
+#  ART-POP / HYPERPOP / ELECTRO-POP  (Charli / Caroline lane)
+# ------------------------------------------------------------
+Charli XCX
+Caroline Polachek
+Tove Lo
+Carly Rae Jepsen
+Banks
+FKA twigs
+Christine and the Queens
+Allie X
+
+# ------------------------------------------------------------
+#  SYNTH-POP / INDIE ELECTRONIC  (Empire of the Sun lane)
+# ------------------------------------------------------------
+MGMT
+Cut Copy
+Foster the People
+Glass Animals
+Passion Pit
+Hot Chip
+Metronomy
+Jungle
+Years & Years
+Friendly Fires
+Miike Snow
+Yeah Yeah Yeahs
+
+# ------------------------------------------------------------
+#  DREAM-POP / ETHEREAL / DARK AMERICANA  (Ethel Cain lane)
+# ------------------------------------------------------------
+Lana Del Rey
+Weyes Blood
+Beach House
+Cigarettes After Sex
+Mitski
+Angel Olsen
+Sharon Van Etten
+Soccer Mommy
+Snail Mail
+Faye Webster
+Suki Waterhouse
+Chelsea Wolfe
+
+# ------------------------------------------------------------
+#  BRIT POP / R&B-POP  (Lily Allen / current UK lane)
+# ------------------------------------------------------------
+Dua Lipa
+Raye
+Griff
+Mabel
+Jorja Smith
+Wolf Alice
+Marina
+Florence + The Machine
